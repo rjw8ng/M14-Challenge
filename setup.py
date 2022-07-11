@@ -7,4 +7,4 @@ setup(name='Demo',
       author='Royal Wang',
       author_email='rjw8ng@virginia.edu',
       license='MIT',
-      packages=['demo'])
+      packages=['jabber'])
